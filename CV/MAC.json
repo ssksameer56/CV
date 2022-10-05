@@ -45,7 +45,7 @@
             "startDate": "2022-03-01",
             "challenges": [
               {
-                "description": "Independently building the API that powers home page and content pages from ground up in Go. Improved API response times by 30% (300000 MAU)\nWorking in cross‐functional teams breaking down monolith to microservices ‐ leveraging gRPC and Go to improve performance\nUsing Docker, Kubernetes and Jenkins to implement CI/CD to do faster releases and handle the tech that powers the business\nImproved traceability, debugging and performance monitoring of APIs and services by using Loki, Grafana and Prometheus\nReduced testing effort by improving testing via Testify, GitHub Actions and Docker"
+                "description": "Independently building the API that powers home page and content pages from ground up in Go and improved API response times by 30% (300000 MAU)\n\nWorking in cross‐functional teams breaking down monolith to microservices ‐ leveraging gRPC and Go to improve performance\n\nUsing Docker, Kubernetes and Jenkins to implement CI/CD to do faster releases and handle the tech that powers the business\n\nImproved traceability, debugging and performance monitoring of APIs and services by using Loki, Grafana and Prometheus\n\nReduced testing effort by improving testing via Testify, GitHub Actions and Docker\n"
               }
             ],
             "competences": [
