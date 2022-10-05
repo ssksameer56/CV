@@ -101,7 +101,7 @@
             "finishDate": "2022-02-01",
             "challenges": [
               {
-                "description": "Part of team that powers automation engine of the core web application\nImproved the core engine to reduce execution times and lag for customers written in C#\nIndependently developed a PoC to move engine from C# to Apache AirFlow, Python and Docker ‐ reducing cost and operational complexity for business\nUsed AWS to monitor performance of the engine"
+                "description": "Part of team that powers automation engine of the core web application\n\nImproved the core engine to reduce execution times and lag for customers written in C#\n\nIndependently developed a PoC to move engine from C# to Apache AirFlow, Python and Docker ‐ reducing cost and operational complexity for business\n\nUsed AWS to monitor performance of the engine"
               }
             ],
             "competences": [
