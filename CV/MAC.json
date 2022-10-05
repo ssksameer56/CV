@@ -1,0 +1,366 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Sameer ",
+      "surnames": "Kolpekwar",
+      "title": "SDE-2 Backend at CityMall",
+      "location": {
+        "country": "India",
+        "region": "Maharastra",
+        "municipality": "Pune"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/sameer-kolpekwar/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Interests other than tech",
+        "fact": "History, Sociology, Political Theory\nReading books on these topics and listening to podcasts"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "CityMall",
+          "image": {
+            "alt": "cm.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/05/9d5a8898-829c-4e71-8df0-9dded3434ea2_cm.png"
+          },
+          "URL": "https://citymall.live/"
+        },
+        "roles": [
+          {
+            "name": "Software Development Engineer 2 - Backend",
+            "startDate": "2022-03-01",
+            "challenges": [
+              {
+                "description": "Independently building the API that powers home page and content pages from ground up in Go. Improved API response times by 30% (300000 MAU)\nWorking in cross‐functional teams breaking down monolith to microservices ‐ leveraging gRPC and Go to improve performance\nUsing Docker, Kubernetes and Jenkins to implement CI/CD to do faster releases and handle the tech that powers the business\nImproved traceability, debugging and performance monitoring of APIs and services by using Loki, Grafana and Prometheus\nReduced testing effort by improving testing via Testify, GitHub Actions and Docker"
+              }
+            ],
+            "competences": [
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Go",
+                "type": "technology"
+              },
+              {
+                "name": "Grafana",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "LeadSquared",
+          "image": {
+            "alt": "ls.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/05/db487672-2532-482f-8291-9806378c44d1_ls.png"
+          },
+          "URL": "https://www.leadsquared.com/"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2021-11-01",
+            "finishDate": "2022-02-01",
+            "challenges": [
+              {
+                "description": "Part of team that powers automation engine of the core web application\nImproved the core engine to reduce execution times and lag for customers written in C#\nIndependently developed a PoC to move engine from C# to Apache AirFlow, Python and Docker ‐ reducing cost and operational complexity for business\nUsed AWS to monitor performance of the engine"
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": ".Net Core",
+                "type": "technology"
+              },
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Airflow",
+                "type": "technology"
+              },
+              {
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Societe Generale",
+          "image": {
+            "alt": "sg.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/05/8c0fb188-0750-4bb6-8cc5-b27d0f7adb85_sg.svg"
+          },
+          "URL": "https://globalsolutioncenter.societegenerale.in/en/"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2019-06-01",
+            "finishDate": "2021-10-01",
+            "challenges": [
+              {
+                "description": "Independently developed and managed dashboard in C#,Angular which reduced manual effort worth 3 hours daily for every analyst and improved visibility and performance of their tasks\n• Solely responsible for C# Desktop application used by 3000 analysts daily in back office ‐ handling issues and bugs,adding features by working with business teams\n• Handled the migration of WPF desktop application to a Web App by creating a new API in C# and worked with people across teams to ensure smooth transition for business\n• Worked with global team in moving an API from .NET to .NET Core and integrating services by multiple teams to onboard them\n• Responsible for code reviews, code quality and CI/CD of all applications. Knowledge sharing to new members and\nparticipating in design and architecture discussions across global teams\n• Handled end to end release cycles for all applications including planning new technical features, ensuring bug free release and collaborating with different teams to add new functionality using TeamCity, XLDeploy, JIRA, SonarQube"
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": ".Net Core",
+                "type": "technology"
+              },
+              {
+                "name": "ASP.net",
+                "type": "technology"
+              },
+              {
+                "name": "AngularJS",
+                "type": "technology"
+              },
+              {
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "Sonar",
+                "type": "technology"
+              },
+              {
+                "name": "TeamCity",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "India, Hindi"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "C#",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Go",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": ".NET",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": ".Net Core",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLServer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redis",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Grafana",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "REST",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Prometheus",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "API",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "ASP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/sameer-kolpekwar/"
+        }
+      ]
+    }
+  }
+}
