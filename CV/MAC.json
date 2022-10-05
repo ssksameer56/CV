@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,10 +9,12 @@
       "name": "Sameer ",
       "surnames": "Kolpekwar",
       "title": "SDE-2 Backend at CityMall",
+      "description": "An experienced developer currently working at Citymall with prior experience in investment banking and marketing domain. My primary focus is in Backend in Go working on REST and GRPC Microservices. My philosophy always has been to write code which is simple, collaborative and takes advantages of modern development practices. I understand that work is best done in a team and I constantly strive to be a team player. I am a quick learner and can pick up technologies best suited for any task. \n\nIn the past I have worked in C#, Python and interacted with domains such as Frontend development and Deep Learning.  also dabble in tools such as Docker and Kubernetes to help my workflow and understand the modern CI pipeline. \n\nIn my free time, you can find me listening to podcasts or reading books. The Cosmere and Middle Earth are my current favourite universes. Apart from fiction, history, political theory and sociology interests me.",
       "location": {
         "country": "India",
         "region": "Maharastra",
-        "municipality": "Pune"
+        "municipality": "Pune",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
