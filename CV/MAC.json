@@ -431,6 +431,9 @@
           "name": "React",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer"
       ]
     }
   }
