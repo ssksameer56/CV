@@ -213,8 +213,8 @@
           "description": "Dota 2 API built using GraphQL, gRPC and HTTP2",
           "URL": "https://github.com/ssksameer56/dota2api",
           "image": {
-            "alt": "dota.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/05/55a4fc37-ab35-4ef9-899e-45986a6191e5_dota.jpeg"
+            "alt": "dota-2-logo-A8CAC9B4C9-seeklogo.com.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/05/6677edd4-182c-4617-b8c6-ebe76748a998_dota-2-logo-a8cac9b4.png"
           }
         },
         "type": "sideProject",
