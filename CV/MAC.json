@@ -8,8 +8,8 @@
     "profile": {
       "name": "Sameer",
       "surnames": "Kolpekwar",
-      "title": "SDE-2 Backend at CityMall",
-      "description": "An experienced developer currently working at Citymall with prior experience in investment banking and marketing domain. My primary focus is in Backend in Go working on REST and GRPC Microservices. My philosophy always has been to write code which is simple, collaborative and takes advantages of modern development practices. I understand that work is best done in a team and I constantly strive to be a team player. I am a quick learner and can pick up technologies best suited for any task. \n\nIn the past I have worked in C#, Python and interacted with domains such as Frontend development and Deep Learning.  also dabble in tools such as Docker and Kubernetes to help my workflow and understand the modern CI pipeline. \n\nIn my free time, you can find me listening to podcasts or reading books. The Cosmere and Middle Earth are my current favourite universes. Apart from fiction, history, political theory and sociology interests me.",
+      "title": "Backend @ CityMall | Go/Golang, C# | Previously LeadSquared, SocGen",
+      "description": "An experienced developer currently working at Citymall with prior experience in investment banking and marketing domain. My primary focus is in Backend in Go working on REST and GRPC Microservices. My philosophy always has been to write code which is simple, collaborative and takes advantages of modern development practices. I understand that work is best done in a team and I constantly strive to be a team player. I am a quick learner and can pick up technologies best suited for any task. \n\nIn the past I have worked in C#, Python and interacted with domains such as Frontend development and Deep Learning. also dabble in tools such as Docker and Kubernetes to help my workflow and understand the modern CI pipeline. \n\nPrior to Citymall, I was working at LeadSquared and Societe Generale working in C# and .NET Core.",
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJARFGZy6_wjsRQ-Oenb9DjYI)",
         "country": "India",
@@ -38,12 +38,7 @@
     "jobs": [
       {
         "organization": {
-          "name": "CityMall",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/05/9d5a8898-829c-4e71-8df0-9dded3434ea2_cm.png",
-            "alt": "cm.png"
-          },
-          "URL": "https://citymall.live/"
+          "name": "CityMall"
         },
         "roles": [
           {
@@ -51,41 +46,7 @@
             "startDate": "2022-03-01",
             "challenges": [
               {
-                "description": "Independently building the API that powers home page and content pages from ground up in Go and improved API response times by 30% (300000 MAU)\n\nWorking in cross‐functional teams breaking down monolith to microservices ‐ leveraging gRPC and Go to improve performance\n\nUsing Docker, Kubernetes and Jenkins to implement CI/CD to do faster releases and handle the tech that powers the business\n\nImproved traceability, debugging and performance monitoring of APIs and services by using Loki, Grafana and Prometheus\n\nReduced testing effort by improving testing via Testify, GitHub Actions and Docker\n"
-              }
-            ],
-            "competences": [
-              {
-                "name": "API",
-                "type": "technology"
-              },
-              {
-                "name": "Docker",
-                "type": "technology"
-              },
-              {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "Go",
-                "type": "technology"
-              },
-              {
-                "name": "Grafana",
-                "type": "technology"
-              },
-              {
-                "name": "Kubernetes",
-                "type": "technology"
-              },
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
-                "name": "REST",
-                "type": "technology"
+                "description": "• API Rebuild and Optimisation Independently re‑built and managed a high‑traffic API (600,000 DAU and 500 RPS) in Go\nfrom the ground up, achieving 50% reduction in resource consumption and costs over old APIs and 30‑50%\nimprovement in response times\n• Uptime Enhancement And Scaling Leveraged K6, HPA, and Keda to boost uptime of core services and APIs from 98% to 99.5%\nwhich resulted in a substantial increase in revenue during peak loads, driving up to 20L INR per hour\n• Inventory Management Revamp Solely revamped and optimised inventory management across all warehouses and sellers by\nleveraging Go and gRPC enabling real‑time stock views for faster order fulfilment(processing 100,000 warehouse events per\nminute at peak) which significantly reduced loss and enhanced ordering experience for customers\n• Performance Monitoring Observability Spearheaded the movement for better logging, observability and monitoring using\nLoki, Grafana and Prometheus that is now implemented across all engineering teams\n• Microservices Transition Worked in cross‑functional teams in breaking down monolithic systems into microservices\n‑ reduced the operational costs, fastened the release cycle and make them easily scalable\n• Service Reliability Using Sentry and automated testing suites, improved the process to identify and eliminate bugs\nfor high throughput APIs managed by me"
               }
             ]
           }
@@ -93,51 +54,16 @@
       },
       {
         "organization": {
-          "name": "LeadSquared",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/05/db487672-2532-482f-8291-9806378c44d1_ls.png",
-            "alt": "ls.png"
-          },
-          "URL": "https://www.leadsquared.com/"
+          "name": "LeadSquared"
         },
         "roles": [
           {
             "name": "Software Engineer",
             "startDate": "2021-11-01",
-            "finishDate": "2022-02-01",
+            "finishDate": "2022-02-28",
             "challenges": [
               {
-                "description": "Part of team that powers automation engine of the core web application\n\nImproved the core engine to reduce execution times and lag for customers written in C#\n\nIndependently developed a PoC to move engine from C# to Apache AirFlow, Python and Docker ‐ reducing cost and operational complexity for business\n\nUsed AWS to monitor performance of the engine"
-              }
-            ],
-            "competences": [
-              {
-                "name": ".NET",
-                "type": "technology"
-              },
-              {
-                "name": ".Net Core",
-                "type": "technology"
-              },
-              {
-                "name": "AWS",
-                "type": "technology"
-              },
-              {
-                "name": "Airflow",
-                "type": "technology"
-              },
-              {
-                "name": "C#",
-                "type": "technology"
-              },
-              {
-                "name": "Docker",
-                "type": "technology"
-              },
-              {
-                "name": "Python",
-                "type": "technology"
+                "description": "• Improved the core automation engine as part of a team to reduce execution times and lag for customers written in C#\n• Independently developed a PoC to move engine from C# to Apache AirFlow, Python and Docker ‐ reducing cost and operational complexity for business\n• Used AWS to monitor performance of the engine"
               }
             ]
           }
@@ -145,63 +71,50 @@
       },
       {
         "organization": {
-          "name": "Societe Generale",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/05/8c0fb188-0750-4bb6-8cc5-b27d0f7adb85_sg.svg",
-            "alt": "sg.svg"
-          },
-          "URL": "https://globalsolutioncenter.societegenerale.in/en/"
+          "name": "Societe Generale Global Solution Centre"
         },
         "roles": [
           {
             "name": "Software Engineer",
             "startDate": "2019-06-01",
-            "finishDate": "2021-10-01",
+            "finishDate": "2021-10-31",
             "challenges": [
               {
-                "description": "Independently developed and managed dashboard in C#,Angular which reduced manual effort worth 3 hours daily for every analyst and improved visibility and performance of their tasks\n\nSolely responsible for C# Desktop application used by 3000 analysts daily in back office ‐ handling issues and bugs,adding features by working with business teams\n\nHandled the migration of WPF desktop application to a Web App by creating a new API in C# and worked with people across teams to ensure smooth transition for business\n\nWorked with global team in moving an API from .NET to .NET Core and integrating services by multiple teams to onboard them\n\nResponsible for code reviews, code quality and CI/CD of all applications. Knowledge sharing to new members and participating in design and architecture discussions across global teams\n\nHandled end to end release cycles for all applications including planning new technical features, ensuring bug free release and collaborating with different teams to add new functionality using TeamCity, XLDeploy, JIRA, SonarQube"
+                "description": "• Independently managed a critical finance and audit C# application that served 3000+ analysts daily in the back office. This included handling issues and incorporating new features in close collaboration with business teams\n• As a junior team member, took the lead in creating and implementing an analytics dashboard using C# and Angular which reduced manual effort worth 3 hours daily for 2000+ analysts and improved visibility and performance of the department\n• Assumed a pivotal role in knowledge sharing across the team, mentored new team members, fostering knowledge sharing and skill development\n• As a junior team member, actively contributed to design and architecture discussions with various teams, underscoring a commitment to promoting best practices\n• Exhibited a high level of responsibility by handling end to end release cycles for all applications including planning new technical features, ensuring bug free release and collaborating with different teams to add new functionality"
               }
-            ],
-            "competences": [
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "FinIQ Consulting Pvt.Ltd."
+        },
+        "roles": [
+          {
+            "name": "Summer Intern",
+            "startDate": "2018-05-01",
+            "finishDate": "2018-07-31",
+            "challenges": [
               {
-                "name": ".NET",
-                "type": "technology"
-              },
+                "description": "• Developed portal for basket of stocks using Javascript and Python, using public APIs and scraping Bloomberg Data\n• Reduced efforts for E2E Testing of enterprise application with Selenium\n• Deeper understanding of Trade Life Cycle, investing instruments(derivatives, equities) and private and investment banking solutions"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Qrius (formerly The Indian Economist)"
+        },
+        "roles": [
+          {
+            "name": "Writing Analyst",
+            "startDate": "2018-03-01",
+            "finishDate": "2018-04-30",
+            "challenges": [
               {
-                "name": ".Net Core",
-                "type": "technology"
-              },
-              {
-                "name": "ASP.net",
-                "type": "technology"
-              },
-              {
-                "name": "AngularJS",
-                "type": "technology"
-              },
-              {
-                "name": "C#",
-                "type": "technology"
-              },
-              {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "Jira",
-                "type": "technology"
-              },
-              {
-                "name": "SQLServer",
-                "type": "technology"
-              },
-              {
-                "name": "Sonar",
-                "type": "technology"
-              },
-              {
-                "name": "TeamCity",
-                "type": "technology"
+                "description": "Writing for the Science and Technology Division"
               }
             ]
           }
@@ -388,26 +301,6 @@
         "skill": {
           "name": "SQLServer",
           "type": "technology"
-        }
-      }
-    ],
-    "softSkills": [
-      {
-        "skill": {
-          "name": "Ability to receive feedback",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Adaptability to change",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Good written communication",
-          "type": "practice"
         }
       }
     ]
