@@ -1,36 +1,22 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
-      "name": "Sameer ",
+      "name": "Sameer",
       "surnames": "Kolpekwar",
       "title": "SDE-2 Backend at CityMall",
       "description": "An experienced developer currently working at Citymall with prior experience in investment banking and marketing domain. My primary focus is in Backend in Go working on REST and GRPC Microservices. My philosophy always has been to write code which is simple, collaborative and takes advantages of modern development practices. I understand that work is best done in a team and I constantly strive to be a team player. I am a quick learner and can pick up technologies best suited for any task. \n\nIn the past I have worked in C#, Python and interacted with domains such as Frontend development and Deep Learning.  also dabble in tools such as Docker and Kubernetes to help my workflow and understand the modern CI pipeline. \n\nIn my free time, you can find me listening to podcasts or reading books. The Cosmere and Middle Earth are my current favourite universes. Apart from fiction, history, political theory and sociology interests me.",
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJARFGZy6_wjsRQ-Oenb9DjYI)",
         "country": "India",
         "region": "Maharastra",
-        "municipality": "Pune",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Pune"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/ssksameer56"
-      },
-      {
-        "type": "other",
-        "URL": "https://ssksameer56.github.io/"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/sameer-kolpekwar/"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "Favourite Books",
@@ -40,6 +26,12 @@
         "topic": "Favourite Podcasts",
         "fact": "The Seen and the Unseen\n\nHardcore History\n\nThe Dollop\n\nWooden Overcoats\n\nRevisionist History"
       }
+    ],
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://ssksameer56.github.io/"
+      }
     ]
   },
   "experience": {
@@ -48,8 +40,8 @@
         "organization": {
           "name": "CityMall",
           "image": {
-            "alt": "cm.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/05/9d5a8898-829c-4e71-8df0-9dded3434ea2_cm.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/05/9d5a8898-829c-4e71-8df0-9dded3434ea2_cm.png",
+            "alt": "cm.png"
           },
           "URL": "https://citymall.live/"
         },
@@ -103,8 +95,8 @@
         "organization": {
           "name": "LeadSquared",
           "image": {
-            "alt": "ls.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/05/db487672-2532-482f-8291-9806378c44d1_ls.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/05/db487672-2532-482f-8291-9806378c44d1_ls.png",
+            "alt": "ls.png"
           },
           "URL": "https://www.leadsquared.com/"
         },
@@ -155,8 +147,8 @@
         "organization": {
           "name": "Societe Generale",
           "image": {
-            "alt": "sg.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/05/8c0fb188-0750-4bb6-8cc5-b27d0f7adb85_sg.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/05/8c0fb188-0750-4bb6-8cc5-b27d0f7adb85_sg.svg",
+            "alt": "sg.svg"
           },
           "URL": "https://globalsolutioncenter.societegenerale.in/en/"
         },
@@ -223,8 +215,8 @@
           "description": "Dota 2 API built using GraphQL, gRPC and HTTP2",
           "URL": "https://github.com/ssksameer56/dota2api",
           "image": {
-            "alt": "dota-2-logo-A8CAC9B4C9-seeklogo.com.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/05/6677edd4-182c-4617-b8c6-ebe76748a998_dota-2-logo-a8cac9b4.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/05/6677edd4-182c-4617-b8c6-ebe76748a998_dota-2-logo-a8cac9b4.png",
+            "alt": "dota-2-logo-A8CAC9B4C9-seeklogo.com.png"
           }
         },
         "type": "sideProject",
@@ -232,7 +224,6 @@
           {
             "name": "Developer",
             "startDate": "2021-11-01",
-            "finishDate": "2021-12-01",
             "competences": [
               {
                 "name": "Go",
@@ -242,7 +233,8 @@
                 "name": "GraphQL",
                 "type": "technology"
               }
-            ]
+            ],
+            "finishDate": "2021-12-01"
           }
         ]
       }
@@ -251,25 +243,15 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "EN",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "India, Hindi"
+        "name": "HI",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
-      {
-        "skill": {
-          "name": "C#",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Go",
-          "type": "technology"
-        }
-      },
       {
         "skill": {
           "name": ".NET",
@@ -279,102 +261,6 @@
       {
         "skill": {
           "name": ".Net Core",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQLServer",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PostgreSQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Redis",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Github",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kubernetes",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Grafana",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "REST",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Prometheus",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jira",
           "type": "technology"
         }
       },
@@ -392,8 +278,136 @@
       },
       {
         "skill": {
+          "name": "C#",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Golang",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Grafana",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "HTML",
           "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Prometheus",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "REST",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redis",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLServer",
+          "type": "technology"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Ability to receive feedback",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adaptability to change",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Good written communication",
+          "type": "practice"
         }
       }
     ]
@@ -402,8 +416,21 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/sameer-kolpekwar/"
+          "URL": "https://www.linkedin.com/in/sameer-kolpekwar/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/ssksameer56",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "ssksameer.56@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "9028256701",
+          "countryCode": "+91"
         }
       ]
     },
@@ -443,6 +470,38 @@
       "preferredRoles": [
         "Backend Developer"
       ]
-    }
+    },
+    "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": ".NET",
+        "type": "technology"
+      },
+      {
+        "name": "Golang",
+        "type": "technology"
+      },
+      {
+        "name": "Kubernetes",
+        "type": "technology"
+      },
+      {
+        "name": "Prometheus",
+        "type": "technology"
+      },
+      {
+        "name": "Redis",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "I would like a job where I'm part of the team that creates or envisions a product and then brings it to life. I have had the fortune of working on products that have stood the test of time and now looking to be part of a team that takes this journey. I want to work on making a vision come to life, use various tools to make it possible and scale it to make the impact we want.",
+    "goodPractices": "I try to be open to ideas and people. Being honest and empathetic is the best way in my opinion to collaborate with people and make things possible. To me it is important that you acknowledge mistakes and improve them, rather than work on avoiding them. The quotes from Stormlight Archive - \"journey before destination\" and \"It's not the first one, is it? It's the next one. Always the next step, Dalinar.\" are the ones that resonate my philosophy the most.",
+    "projects": [
+      {
+        "name": "Dota 2 API"
+      }
+    ]
   }
 }
